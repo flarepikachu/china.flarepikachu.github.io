@@ -131,19 +131,19 @@ Energy Powerup
 
 - Energy increase: 40% -> 50%
 
-**Earthwarden**
+**大地守护神**
 
-Chain Heal
+连锁治愈
 
 - Removed healing reduction on last bounce
 
-**Vindicator**
+**维护者**
 
-*Prism Guard received a small rework as voted in by the playerbase.*
+*棱镜护盾 received a small rework as voted in by the playerbase.*
 
-Prism Guard
+棱镜护盾
 
-Cooldown: 24s -> 26s
+冷却: 24s -> 26s
 
 Create a bubble shield around you that lasts 6 seconds. All projectiles that pass through the barrier have their damage reduced by 75%. After 6 seconds the bubble will burst, healing all allies for 200 + [1.5% missing health * HITS] health and grant [3% * HITS] damage reduction (up to 30%) for 6 seconds. 
 
@@ -153,86 +153,86 @@ HITS = Each damage instance (both melee and ability) you took from an enemy whil
 
 Nearly all skill boosts have had a small overhaul to either stat or overall funcationality.
 
-**Pyromancer**
+**火系法师**
 
- - Flameburst
- - Arcane Shield
- - Inferno
+ - 火焰喷发
+ - 奥术护盾
+ - 炼狱
 
-**Cryomancer**
+**冰系法师**
 
-- Frostbolt
-- Freezing Breath
-- Time Warp
-- Arcane Shield
-- Ice Barrier
+- 霜冻术
+- 寒冰吐息
+- 时空断裂
+- 奥术护盾
+- 寒冰屏障
 
-**Aquamancer**
+**水系法师**
 
-- Water Breath
-- Arcane Shield
+- 水之吐息
+- 奥术护盾
 
-**Berserker**
+**狂战士**
 
-- Wounding Strike
-- Seismic Wave
-- Ground Slam
-- Blood Lust
-- Berserk
+- 创伤之斩
+- 地震波
+- 大地锤击
+- 嗜血
+- 狂暴
 
-**Defender**
+**防御者**
 
-- Wounding Strike
-- Intervene
-- Last Stand
+- 创伤之斩
+- 护卫
+- 背水一战
 
-**Revenant**
+**亡魂领主**
 
-- Crippling Strike
-- Reckless Charge
-- Orbs of Life
-- Undying Army
+- 致残打击
+- 无畏冲锋
+- 生命之球
+- 不死军团
 
-**Avenger**
+**复仇者**
 
-- Avenger's Strike
-- Consecrate
-- Light Infusion
-- Holy Radiance / Avenger's Mark
-- Avenger's Wrath
+- 复仇之斩
+- 圣堂领域
+- 圣光倾注
+- 神圣光辉 / 复仇者's Mark
+- 复仇之怒
 
-**Crusader**
+**十字军**
 
-- Consecrate
-- Light Infusion
-- Holy Radiance / Crusader's Mark
-- Inspiring Presence
+- 圣堂领域
+- 圣光倾注
+- 神圣光辉 / 十字军's Mark
+- 振奋风度
 
-**Protector**
+**守护者**
 
-- Protector's Strike
-- Consecrate
-- Light Infusion
-- Hammer of Light
+- 守护之斩
+- 圣堂领域
+- 圣光倾注
+- 圣光之锤
 
-**Thunderlord**
+**雷电领主**
 
-- Chain Lightning
-- Windfury Weapon
-- Capacitor Totem
+- 连锁闪电
+- 风怒之械
+- 超导图腾
 
-**Spiritguard**
+**灵魂近卫**
 
-- Spirit Link
-- Soulbinding Weapon
-- Death's Debt
+- 灵魂链接
+- 锁魂之械
+- 死亡债务
 
-**Earthwarden**
+**大地守护神**
 
-- Earthen Spike
-- Boulder
-- Chain Heal
-- Healing Totem
+- 大地刺枪
+- 巨石投掷
+- 连锁治愈
+- 治愈图腾
 
 **ADDITIONS**
 
@@ -242,8 +242,8 @@ Nearly all skill boosts have had a small overhaul to either stat or overall func
 **BUG FIXES**
 
 - Fixed flags sometimes dropping in the Lobby during warp back
-- Fixed teammates affected by Last Stand granting the Defender slightly too much healing due to a calculcation error
-- Fixed typo in Death's Debt description
+- Fixed teammates affected by 背水一战 granting the 防御者 slightly too much healing due to a calculcation error
+- Fixed typo in 死亡债务 description
 
 **CREDITS**
 
@@ -258,7 +258,7 @@ Hi, quick note for comps this coming week,
 with PvE update there's no actual new stuff for comps except for the levels that you gained through comps directly carry over to PvE, which will give you a few headstart benefits. There's also a few other notable things including but not limited to:
 
 - 49 Skill boost changes (mostly values, but also a few reworks.)
-- Reworked Prism Guard.
+- Reworked 棱镜护盾.
 - Some requested QoL features.
 
 Since the update releases on a friday but has technically nothing to do with comps it's up to you guys whether you do comps or not this weekend.

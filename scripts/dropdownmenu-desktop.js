@@ -35,48 +35,48 @@ class dropdown1 extends HTMLElement {
           <li>
               <button class="dropdown-btn">
               <i class="fa-solid fa-circle-info fa-fw"></i>
-              Skills & Upgrades
+              技能与加成
               </button>
               <div class="dropdown-container dropdown-container-classes">
                 <button class="dropdown-btn ul">
-                Mage
+                法师
                 </button>
                 <div class="dropdown-container dropdown-container-class dropdown-container-mage">
-                <a class='test' href="/skills/mage/pyromancer.html"><span>Pyromancer</span></a>
-                <a class='test' href="/skills/mage/cryomancer.html"><span>Cryomancer</span></a>
-                <a class='test' href="/skills/mage/aquamancer.html"><span>Aquamancer</span></a>
+                <a class='test' href="/skills/mage/pyromancer.html"><span>火系法师</span></a>
+                <a class='test' href="/skills/mage/cryomancer.html"><span>冰系法师</span></a>
+                <a class='test' href="/skills/mage/aquamancer.html"><span>水系法师</span></a>
                 </div>
                 <button class="dropdown-btn ul">
-                Paladin
+                圣骑士
                 </button>
                 <div class="dropdown-container dropdown-container-class dropdown-container-paladin">
-                <a class='test' href="/skills/paladin/avenger.html"><span>Avenger</span></a>
-                <a class='test' href="/skills/paladin/crusader.html"><span>Crusader</span></a>
-                <a class='test' href="/skills/paladin/protector.html"><span>Protector</span></a>
+                <a class='test' href="/skills/paladin/avenger.html"><span>复仇者</span></a>
+                <a class='test' href="/skills/paladin/crusader.html"><span>十字军</span></a>
+                <a class='test' href="/skills/paladin/protector.html"><span>守护者</span></a>
                 </div>
                 <button class="dropdown-btn ul">
-                Warrior
+                战士
                 </button>
                 <div class="dropdown-container dropdown-container-class dropdown-container-warrior">
-                <a class='test' href="/skills/warrior/berserker.html"><span>Berserker</span></a>
-                <a class='test' href="/skills/warrior/defender.html"><span>Defender</span></a>
-                <a class='test' href="/skills/warrior/revenant.html"><span>Revenant</span></a>
+                <a class='test' href="/skills/warrior/berserker.html"><span>狂战士</span></a>
+                <a class='test' href="/skills/warrior/defender.html"><span>防御者</span></a>
+                <a class='test' href="/skills/warrior/revenant.html"><span>亡魂领主</span></a>
                 </div>
                 <button class="dropdown-btn ul">
-                Shaman
+                萨满
                 </button>
                 <div class="dropdown-container dropdown-container-class dropdown-container-shaman">
-                <a class='test' href="/skills/shaman/thunderlord.html"><span>Thunderlord</span></a>
-                <a class='test' href="/skills/shaman/spiritguard.html"><span>Spiritguard</span></a>
-                <a class='test' href="/skills/shaman/earthwarden.html"><span>Earthwarden</span></a>
+                <a class='test' href="/skills/shaman/thunderlord.html"><span>雷电领主</span></a>
+                <a class='test' href="/skills/shaman/spiritguard.html"><span>灵魂近卫</span></a>
+                <a class='test' href="/skills/shaman/earthwarden.html"><span>大地守护神</span></a>
                 </div>
                 <button class="dropdown-btn ul">
-                Rogue
+                侠盗
                 </button>
                 <div class="dropdown-container dropdown-container-class dropdown-container-rogue">
-                <a class='test' href="/skills/rogue/assassin.html"><span>Assassin</span></a>
-                <a class='test' href="/skills/rogue/vindicator.html"><span>Vindicator</span></a>
-                <a class='test' href="/skills/rogue/apothecary.html"><span>Apothecary</span></a>
+                <a class='test' href="/skills/rogue/assassin.html"><span>刺客</span></a>
+                <a class='test' href="/skills/rogue/vindicator.html"><span>维护者</span></a>
+                <a class='test' href="/skills/rogue/apothecary.html"><span>药剂师</span></a>
                 </div>
               </div>
           </li>
