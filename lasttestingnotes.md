@@ -20,14 +20,14 @@ Normal Wins Times not showing on leaderboards after game
 modify height according to the amount of entries on end game stat lbs
 Change plays on sidebar to wins
 
-**亡魂领主**
+**Revenant**
 Rev Ult
 
 **Achievements**
 fix achievements triggering 39 million times'
 Boltaro achievemetn is sus
 
-**守护者**
-守护者 is just sus dude
-Make 圣光倾注 Master reset cooldown of 神圣光辉
-Make 神圣光辉 Master make 神圣光辉 cst 0 Energy
+**Protector**
+Protector is just sus dude
+Make Light Infusion Master reset cooldown of Holy Radiance
+Make Holy Radiance Master make Holy Radiance cst 0 Energy
